@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+  <title>Melissa Wellham</title>
+  <style>
+  h1 {
+    text-shadow: 2px 2px #020000;
+}
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/I2YKK2l.jpg");
+      background-size: cover;
+      background-position: center;
+      color: #F39C12;
+      font-family: helvetica;
+      text-shadow: 2px 2px #020000;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="http://i.imgur.com/nf0FeSl.png"/>
+  <h1> Melissa Wellham </h1>
+  <p>Hi! I'm Melissa, a Melbourne-based digital marketer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
